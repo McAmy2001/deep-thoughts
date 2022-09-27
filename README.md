@@ -1,2 +1,5 @@
 # Deep-Thoughts
-### Bootcamp Module 21 online lesson project. 
+
+## Bootcamp Module 21: MERN 
+
+#### All code is from the bootcamp module.
